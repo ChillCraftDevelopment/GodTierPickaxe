@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": [
+      {
+        "text": "Loot Budding Amethysts",
+        "color": "dark_purple"
+      },
+      {
+        "text": "\nChillCraft Development",
+        "color": "gold"
+      }
+    ]
+  }
+}
