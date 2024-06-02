@@ -17,7 +17,15 @@
         }
     },
     "result": {
-        "item": "minecraft:knowledge_book",
+        "id": "minecraft:netherite_pickaxe",
+        "components": {
+            "minecraft:unbreakable":{
+                "show_in_tooltip":true
+            },
+            "minecraft:custom_data": {
+                "destroy_world": true
+            }
+        },
         "count": 1
     }
 }

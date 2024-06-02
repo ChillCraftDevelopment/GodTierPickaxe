@@ -1,0 +1,1 @@
+execute as @a if items entity @s weapon *[custom_data~{destroy_world:true}] run effect give @a minecraft:haste 1 7 true
