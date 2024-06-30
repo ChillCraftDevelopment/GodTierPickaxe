@@ -1,0 +1,59 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:netherite_pickaxe"
+    },
+    "title": "God Pickaxe",
+    "description": [
+      "",
+      {
+        "text": "Instantmining deepslate to craft God Pickaxe and enchant.\nTo craft:\n",
+        "color": "white"
+      },
+      {
+        "text": "121\n",
+        "color": "red"
+      },
+      {
+        "text": " 3 \n",
+        "color": "red"
+      },
+      {
+        "text": " 1 \n\n",
+        "color": "red"
+      },
+      {
+        "text": "1",
+        "color": "red"
+      },
+      {
+        "text": " is Netherite Block\n",
+        "color": "white"
+      },
+      {
+        "text": "2",
+        "color": "red"
+      },
+      {
+        "text": " is Netherstar\n",
+        "color": "white"
+      },
+      {
+        "text": "3",
+        "color": "red"
+      },
+      {
+        "text": " is Netherite Pickaxe",
+        "color": "white"
+      }
+    ],
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:chillcraft",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
