@@ -3,7 +3,8 @@
 </h1>
 
 <div align="center">
-    [GitHub Release][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Screenshots](#screenshots)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Issues][issues]
+    
+[GitHub Release][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Screenshots](#screenshots)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Issues][issues]
 </div>
 
 <h1>God Tier Pickaxe</h1>
