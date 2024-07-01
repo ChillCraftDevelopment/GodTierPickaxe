@@ -15,8 +15,12 @@
 	  "description": [
 		"",
 		{
-		  "text": "All loaded datapacks by ChillCraft Dev",
-		  "color": "gold"
+			"text": "All loaded datapacks by ChillCraft Dev\n\n",
+			"color": "gold"
+		},
+		{
+			"text": "https://github.com/ChillCraftDevelopment",
+			"color": "dark_green"
 		}
 	  ],
 	  "show_toast": false,
