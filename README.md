@@ -17,7 +17,7 @@ To craft the God Tier Pickaxe you will need 3 Blocks of Netherite, 1 Netherite P
 <img src=".github/resources/CraftingRecipe.png" />
 
 <h3>God Tier Pickaxe working</h3>
-<img src=".github/resources/mining.gif>
+<img src=".github/resources/mining.gif" />
 
 [release]:https://github.com/ChillCraftDevelopment/GodTierPickaxe/releases/latest "Latest Release (external link)"
 [issues]:https://github.com/ChillCraftDevelopment/GodTierPickaxe/issues "Issues (external link)"
