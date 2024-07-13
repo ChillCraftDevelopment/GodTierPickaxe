@@ -19,11 +19,23 @@
     "result": {
         "id": "minecraft:netherite_pickaxe",
         "components": {
+            "minecraft:item_name": "{\"text\":\"God Tier Pickaxe\"}",
+            "minecraft:rarity": "epic",
             "minecraft:unbreakable":{
                 "show_in_tooltip":true
             },
-            "minecraft:custom_data": {
-                "destroy_world": true
+            "minecraft:tool": {
+                "rules": [
+                    {
+                        "blocks": "#minecraft:incorrect_for_netherite_tool",
+                        "correct_for_drops": false
+                    },
+                    {
+                        "blocks": "#minecraft:mineable/pickaxe",
+                        "correct_for_drops": true,
+                        "speed": 64
+                    }
+                ]
             }
         },
         "count": 1
