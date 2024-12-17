@@ -6,15 +6,9 @@
         " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:netherite_block"
-        },
-        "N": {
-            "item": "minecraft:nether_star"
-        },
-        "E": {
-            "item": "minecraft:netherite_pickaxe"
-        }
+        "#": "minecraft:netherite_block",
+        "N": "minecraft:nether_star",
+        "E": "minecraft:netherite_pickaxe"
     },
     "result": {
         "id": "minecraft:netherite_pickaxe",
